@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "name": "Vladeen Min",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "mobile": "900079911",
+      "email": "vladeen@gmail.com",
+      "company": "Service",
+      "title": "Electrician",
+      "groupId": "4",
+      "id": "UyEDV5Yds"
+    },
+    {
+      "name": "Rajan",
+      "imageUrl": "https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/256/User-icon.png",
+      "mobile": "9090909090",
+      "email": "rajan@gmail.com",
+      "company": "HCL Technologies",
+      "title": "Software Engineer",
+      "groupId": "1",
+      "id": "kLt-bJF"
+    },
+    {
+      "name": "Naveen",
+      "imageUrl": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png",
+      "mobile": "9844804533",
+      "email": "naveen@gmail.com",
+      "company": "Infosys",
+      "title": "Technical Lead",
+      "groupId": "2",
+      "id": "5JJZOk2"
+    },
+    {
+      "name": "Violet",
+      "imageUrl": "https://cdn3d.iconscout.com/3d/premium/thumb/user-6332708-5209354.png",
+      "mobile": "6778887788",
+      "email": "Violet@gmail.com",
+      "company": "Purple Beauty",
+      "title": "Manager",
+      "groupId": "1",
+      "id": "Mngg1uN"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
